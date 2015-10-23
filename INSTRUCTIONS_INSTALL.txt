@@ -1,0 +1,13 @@
+INSTRUCTIONS TO INSTALL:
+
+a.Once logged in your git account, go to: https://github.com/ToniSkan/webcam_capture.git and find the button “fork”. Click it!. This action “forks” this repository to your git space, so it creates a new repository in your git space with the same content.
+
+b.Clone YOUR recently created (forked) repository: git clone https://github.com/my_github_name/webcam_capture.git
+
+c.open in your terminal de directory which contain CMakeLists.txt
+
+d.execute in your terminal: "cmake .."
+
+e.execute in your terminal: make
+
+Then you build the executable to see the image of your Webcam
